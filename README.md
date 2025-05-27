@@ -3,14 +3,14 @@
 A JavaFX-based Rock-Paper-Scissors game with interactive GUI and image support.
 
 ## 📂 Folder Structure
-RockPaperScissorGameFX/
-├── src/
-│ └── RockPaperScissorGameFX.java
-├── images/
-│ ├── Rock.png
-│ ├── Paper.png
-│ └── Scissor.png
-└── README.md
+    RockPaperScissorGameFX/
+    ├── src/
+    │ └── RockPaperScissorGameFX.java
+    ├── images/
+    │ ├── Rock.png
+    │ ├── Paper.png
+    │ └── Scissor.png
+    └── README.md
 
 
 ## 🚀 How to Run
