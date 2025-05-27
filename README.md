@@ -2,10 +2,14 @@
 
 A JavaFX-based Rock-Paper-Scissors game with interactive GUI and image support.
 
+This project recreates the classic Rock-Paper-Scissors game using JavaFX for a fun and responsive graphical interface. 
+Users can play against the computer, and each move is represented visually with images. 
+It’s a great example of event handling, image loading, and basic UI logic in JavaFX. 
+Perfect for beginners learning GUI-based development in Java.
+
 ## 📂 Folder Structure
     RockPaperScissorGameFX/
-    ├── src/
-    │ └── RockPaperScissorGameFX.java
+    ├── RockPaperScissorGameFX.java
     ├── images/
     │ ├── Rock.png
     │ ├── Paper.png
