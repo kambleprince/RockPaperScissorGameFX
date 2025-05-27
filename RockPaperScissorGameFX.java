@@ -28,9 +28,9 @@ public class RockPaperScissorGameFX extends Application
         font = new Font("Arial", 30);
 
         // Load images
-		rockImage = new Image("file:P:/SEM 3/Java/22bt04121/project/JAVA Project/Rock.png");
-        paperImage = new Image("file:P:/SEM 3/Java/22bt04121/project/JAVA Project/Paper.png");
-        scissorImage = new Image("file:P:/SEM 3/Java/22bt04121/project/JAVA Project/Scissor.png");
+		rockImage = new Image("file:/Rock.png");
+        paperImage = new Image("file:/Paper.png");
+        scissorImage = new Image("file:/Scissor.png");
 		
         ImageView rockView = new ImageView(rockImage);
         ImageView paperView = new ImageView(paperImage);
